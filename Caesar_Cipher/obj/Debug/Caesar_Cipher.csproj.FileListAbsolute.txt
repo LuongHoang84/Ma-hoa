@@ -1,0 +1,20 @@
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.exe.config
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.exe
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.pdb
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.AssemblyReference.cache
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.Form1.resources
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.Properties.Resources.resources
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.GenerateResource.cache
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.CoreCompileInputs.cache
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.exe
+D:\Study\TTATTT\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.pdb
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.exe.config
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.exe
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\bin\Debug\Caesar_Cipher.pdb
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.AssemblyReference.cache
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.Form1.resources
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.Properties.Resources.resources
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.GenerateResource.cache
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.exe
+C:\Users\oizez\OneDrive\Tài liệu\Visual Studio 2019\Caesar_Cipher\Caesar_Cipher\obj\Debug\Caesar_Cipher.pdb
